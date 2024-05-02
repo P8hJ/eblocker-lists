@@ -22,7 +22,7 @@
     <repositories>
         <repository>
             <id>eblocker</id>
-            <url>https://maven.pkg.github.com/P8hJ/eblocker</url>
+            <url>https://maven.pkg.github.com/eblocker/eblocker</url>
         </repository>
         <repository>
             <id>eblocker-top</id>
@@ -34,7 +34,7 @@
         <dependency>
             <groupId>org.eblocker</groupId>
             <artifactId>eblocker-icapserver</artifactId>
-            <version>3.1-SNAPSHOT</version>
+            <version>3.1.0</version>
         </dependency>
         <dependency>
             <groupId>com.fasterxml.jackson.datatype</groupId>
